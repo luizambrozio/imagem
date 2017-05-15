@@ -2,7 +2,10 @@
   "name": "images",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
+  "engines": {
+    "node": "6.10.2"
+  },
   "scripts": {
     "start": "node server.js"
   },
@@ -17,5 +20,9 @@
   },
   "devDependencies": {
     "standard": "^10.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luizambrozio/imagem.git"
+  } 
 }
