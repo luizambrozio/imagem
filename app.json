@@ -2,7 +2,7 @@
   "name": "Images ",
   "description": "A barebones Node.js app using Express 4",
   "repository": "https://github.com/luizambrozio/imagem.git",
-  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
+  "logo": "https://cdn.jsdelivr.net/gh/heroku/node-js-getting-started/public/node.svg",
   "keywords": ["node", "Hapi", "heroku"],
   "image": "heroku/nodejs"
 }
